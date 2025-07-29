@@ -1,0 +1,27 @@
+ body {
+  font-family: 'Luckiest Guy', cursive;
+  background-color: #411f1f;
+  color: #f9abab;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 2rem;
+}
+
+.game-area {
+  margin-top: 40px;
+  position: relative;
+  height: 400px;
+}
+
+#tinda {
+  width: 180px;
+  position: absolute;
+  cursor: pointer;
+  transition: transform 0.1s;
+}
+
