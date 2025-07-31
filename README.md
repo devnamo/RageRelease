@@ -4,9 +4,13 @@ RageRelease is a stress-busting mini web game where you click on Tapori Tinda �
 
 💡 Why this game?
 Built by a gurlie who codes for peace, this game is therapy — in pixels.
+
 Also a fun excuse to learn:
+
 -> Game logic with JavaScript
+
 -> CSS grids & animations
+
 -> Character design (hi Tapori Tinda)
 
 🔧 Tech Used
